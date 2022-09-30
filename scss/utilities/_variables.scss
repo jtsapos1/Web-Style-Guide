@@ -9,12 +9,8 @@ $color-primary: #58e1c1; // aquamarine
 $color-text: #777;
 $color-accent: #51ddfc;
 $color-secondary: #927bc1;
-$color-primary-light: lighten($color-primary, 10%);
-
-
-$color-shade: #eee;
-
-$color-bg: #3acec2;
-$color-bg-light: #009fe1;
+$color-border: #ccc;
 
 //Media Query breakpoints
+
+$brk-wide: '(min-width: 768px)';
