@@ -13,7 +13,7 @@
 }
 
 .default {
-	background-color: #51ddfc;
+	background-color: $color-accent;
 }
 
 .error {
@@ -21,7 +21,7 @@
 }
 
 .info {
-	background-color: #927bc1;
+	background-color: $color-secondary;
 }
 
 .success {
